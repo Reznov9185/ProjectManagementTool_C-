@@ -1,0 +1,61 @@
+D:\C# project\ProjectManagementTool\PresentationTier\bin\Debug\ManagementTools.mdf
+D:\C# project\ProjectManagementTool\PresentationTier\bin\Debug\ManagementTools_log.ldf
+D:\C# project\ProjectManagementTool\PresentationTier\bin\Debug\PresentationTier.exe.config
+D:\C# project\ProjectManagementTool\PresentationTier\bin\Debug\PresentationTier.exe
+D:\C# project\ProjectManagementTool\PresentationTier\bin\Debug\PresentationTier.pdb
+D:\C# project\ProjectManagementTool\PresentationTier\bin\Debug\DataAccessTier.dll
+D:\C# project\ProjectManagementTool\PresentationTier\bin\Debug\DataTier.dll
+D:\C# project\ProjectManagementTool\PresentationTier\bin\Debug\LogicTier.dll
+D:\C# project\ProjectManagementTool\PresentationTier\bin\Debug\DataAccessTier.pdb
+D:\C# project\ProjectManagementTool\PresentationTier\bin\Debug\DataTier.pdb
+D:\C# project\ProjectManagementTool\PresentationTier\bin\Debug\LogicTier.pdb
+D:\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.csprojResolveAssemblyReference.cache
+D:\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.MainWindow.resources
+D:\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.Properties.Resources.resources
+D:\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.csproj.GenerateResource.Cache
+D:\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.exe
+D:\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.pdb
+D:\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.ScheduleWindow.resources
+D:\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.SequenceWindow.resources
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\bin\Debug\PresentationTier.exe.config
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.exe
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.pdb
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.csprojResolveAssemblyReference.cache
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.MainWindow.resources
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.Properties.Resources.resources
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.ScheduleWindow.resources
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.SequenceWindow.resources
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.csproj.GenerateResource.Cache
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\bin\Debug\PresentationTier.exe
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\bin\Debug\PresentationTier.pdb
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\bin\Debug\DataAccessTier.dll
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\bin\Debug\DataTier.dll
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\bin\Debug\LogicTier.dll
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\bin\Debug\DataAccessTier.pdb
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\bin\Debug\DataTier.pdb
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\bin\Debug\LogicTier.pdb
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\bin\Debug\MTdbFramework.dll
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\bin\Debug\MTdbFramework.pdb
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.ScheduleResult.resources
+F:\C#\tawhid\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.SequenceResult.resources
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\bin\Debug\PresentationTier.exe.config
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.exe
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.pdb
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\bin\Debug\PresentationTier.exe
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\bin\Debug\PresentationTier.pdb
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\bin\Debug\DataAccessTier.dll
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\bin\Debug\DataTier.dll
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\bin\Debug\LogicTier.dll
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\bin\Debug\MTdbFramework.dll
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\bin\Debug\DataAccessTier.pdb
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\bin\Debug\DataTier.pdb
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\bin\Debug\LogicTier.pdb
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\bin\Debug\MTdbFramework.pdb
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.csprojResolveAssemblyReference.cache
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.MainWindow.resources
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.Properties.Resources.resources
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.ScheduleResult.resources
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.ScheduleWindow.resources
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.SequenceResult.resources
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.SequenceWindow.resources
+E:\Sping,2014\C# project\ProjectManagementTool\PresentationTier\obj\Debug\PresentationTier.csproj.GenerateResource.Cache

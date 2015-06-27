@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{878A3F2B-1947-4CAF-8A6A-55DEC40265E3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PresentationTier</RootNamespace>
+    <AssemblyName>PresentationTier</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Entity.Design" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScheduleResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScheduleResult.Designer.cs">
+      <DependentUpon>ScheduleResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ScheduleWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScheduleWindow.Designer.cs">
+      <DependentUpon>ScheduleWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SequenceResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SequenceResult.Designer.cs">
+      <DependentUpon>SequenceResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SequenceWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SequenceWindow.Designer.cs">
+      <DependentUpon>SequenceWindow.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ScheduleResult.resx">
+      <DependentUpon>ScheduleResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScheduleWindow.resx">
+      <DependentUpon>ScheduleWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SequenceResult.resx">
+      <DependentUpon>SequenceResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SequenceWindow.resx">
+      <DependentUpon>SequenceWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessTier\DataAccessTier.csproj">
+      <Project>{56dde284-96e6-4ea3-ae20-163f5c501a62}</Project>
+      <Name>DataAccessTier</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataTier\DataEntityTier.csproj">
+      <Project>{94e593d3-d0dd-45ea-bb2e-12ba020bd558}</Project>
+      <Name>DataEntityTier</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LogicTier\LogicTier.csproj">
+      <Project>{daf1bb09-28ad-4a85-88e7-2a841c9a0d39}</Project>
+      <Name>LogicTier</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MTdbFramework\MTdbFramework.csproj">
+      <Project>{3dd19bac-c4fd-4fe6-b358-cbd6c1ecaabd}</Project>
+      <Name>MTdbFramework</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,20 @@
+D:\C# project\ProjectManagementTool\DataAccessTier\bin\Debug\ManagementTools.mdf
+D:\C# project\ProjectManagementTool\DataAccessTier\bin\Debug\ManagementTools_log.ldf
+D:\C# project\ProjectManagementTool\DataAccessTier\bin\Debug\DataAccessTier.dll.config
+D:\C# project\ProjectManagementTool\DataAccessTier\bin\Debug\DataAccessTier.dll
+D:\C# project\ProjectManagementTool\DataAccessTier\bin\Debug\DataAccessTier.pdb
+D:\C# project\ProjectManagementTool\DataAccessTier\obj\Debug\DataAccessTier.csprojResolveAssemblyReference.cache
+D:\C# project\ProjectManagementTool\DataAccessTier\obj\Debug\DataAccessTier.dll
+D:\C# project\ProjectManagementTool\DataAccessTier\obj\Debug\DataAccessTier.pdb
+F:\C#\tawhid\ProjectManagementTool\DataAccessTier\bin\Debug\DataAccessTier.dll.config
+F:\C#\tawhid\ProjectManagementTool\DataAccessTier\bin\Debug\DataAccessTier.dll
+F:\C#\tawhid\ProjectManagementTool\DataAccessTier\bin\Debug\DataAccessTier.pdb
+F:\C#\tawhid\ProjectManagementTool\DataAccessTier\obj\Debug\DataAccessTier.csprojResolveAssemblyReference.cache
+F:\C#\tawhid\ProjectManagementTool\DataAccessTier\obj\Debug\DataAccessTier.dll
+F:\C#\tawhid\ProjectManagementTool\DataAccessTier\obj\Debug\DataAccessTier.pdb
+E:\Sping,2014\C# project\ProjectManagementTool\DataAccessTier\bin\Debug\DataAccessTier.dll.config
+E:\Sping,2014\C# project\ProjectManagementTool\DataAccessTier\bin\Debug\DataAccessTier.dll
+E:\Sping,2014\C# project\ProjectManagementTool\DataAccessTier\bin\Debug\DataAccessTier.pdb
+E:\Sping,2014\C# project\ProjectManagementTool\DataAccessTier\obj\Debug\DataAccessTier.csprojResolveAssemblyReference.cache
+E:\Sping,2014\C# project\ProjectManagementTool\DataAccessTier\obj\Debug\DataAccessTier.dll
+E:\Sping,2014\C# project\ProjectManagementTool\DataAccessTier\obj\Debug\DataAccessTier.pdb

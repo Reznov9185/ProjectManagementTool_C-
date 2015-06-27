@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ManagementTools" Class="managementToolsDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=F:\C#\tawhid\ManagementTools.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="DataAccessTier.Properties.Settings" SettingsPropertyName="ManagementToolsConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Schedule" Member="Schedules">
+    <Type Name="Schedule">
+      <Column Name="Job" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Machine1" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Machine2" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Machine3" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Machine4" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Machine5" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Sequence" Member="Sequences">
+    <Type Name="Sequence">
+      <Column Name="TaskNo" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TaskName" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="ProceessingTime" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DueDate" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NoOfOperation" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

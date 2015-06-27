@@ -1,0 +1,1 @@
+﻿ALTER TABLE Sequence ADD NoOfOperation INT;

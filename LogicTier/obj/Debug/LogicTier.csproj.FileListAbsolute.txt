@@ -1,0 +1,33 @@
+D:\C# project\ProjectManagementTool\LogicTier\bin\Debug\ManagementTools.mdf
+D:\C# project\ProjectManagementTool\LogicTier\bin\Debug\ManagementTools_log.ldf
+D:\C# project\ProjectManagementTool\LogicTier\bin\Debug\LogicTier.dll
+D:\C# project\ProjectManagementTool\LogicTier\bin\Debug\LogicTier.pdb
+D:\C# project\ProjectManagementTool\LogicTier\bin\Debug\DataAccessTier.dll
+D:\C# project\ProjectManagementTool\LogicTier\bin\Debug\DataTier.dll
+D:\C# project\ProjectManagementTool\LogicTier\bin\Debug\DataAccessTier.pdb
+D:\C# project\ProjectManagementTool\LogicTier\bin\Debug\DataTier.pdb
+D:\C# project\ProjectManagementTool\LogicTier\obj\Debug\LogicTier.csprojResolveAssemblyReference.cache
+D:\C# project\ProjectManagementTool\LogicTier\obj\Debug\LogicTier.dll
+D:\C# project\ProjectManagementTool\LogicTier\obj\Debug\LogicTier.pdb
+F:\C#\tawhid\ProjectManagementTool\LogicTier\obj\Debug\LogicTier.csprojResolveAssemblyReference.cache
+F:\C#\tawhid\ProjectManagementTool\LogicTier\obj\Debug\LogicTier.dll
+F:\C#\tawhid\ProjectManagementTool\LogicTier\obj\Debug\LogicTier.pdb
+F:\C#\tawhid\ProjectManagementTool\LogicTier\bin\Debug\LogicTier.dll
+F:\C#\tawhid\ProjectManagementTool\LogicTier\bin\Debug\LogicTier.pdb
+F:\C#\tawhid\ProjectManagementTool\LogicTier\bin\Debug\DataAccessTier.dll
+F:\C#\tawhid\ProjectManagementTool\LogicTier\bin\Debug\DataTier.dll
+F:\C#\tawhid\ProjectManagementTool\LogicTier\bin\Debug\DataAccessTier.pdb
+F:\C#\tawhid\ProjectManagementTool\LogicTier\bin\Debug\DataTier.pdb
+F:\C#\tawhid\ProjectManagementTool\LogicTier\bin\Debug\MTdbFramework.dll
+F:\C#\tawhid\ProjectManagementTool\LogicTier\bin\Debug\MTdbFramework.pdb
+E:\Sping,2014\C# project\ProjectManagementTool\LogicTier\bin\Debug\LogicTier.dll
+E:\Sping,2014\C# project\ProjectManagementTool\LogicTier\bin\Debug\LogicTier.pdb
+E:\Sping,2014\C# project\ProjectManagementTool\LogicTier\bin\Debug\DataAccessTier.dll
+E:\Sping,2014\C# project\ProjectManagementTool\LogicTier\bin\Debug\DataTier.dll
+E:\Sping,2014\C# project\ProjectManagementTool\LogicTier\bin\Debug\MTdbFramework.dll
+E:\Sping,2014\C# project\ProjectManagementTool\LogicTier\bin\Debug\DataAccessTier.pdb
+E:\Sping,2014\C# project\ProjectManagementTool\LogicTier\bin\Debug\DataTier.pdb
+E:\Sping,2014\C# project\ProjectManagementTool\LogicTier\bin\Debug\MTdbFramework.pdb
+E:\Sping,2014\C# project\ProjectManagementTool\LogicTier\obj\Debug\LogicTier.csprojResolveAssemblyReference.cache
+E:\Sping,2014\C# project\ProjectManagementTool\LogicTier\obj\Debug\LogicTier.dll
+E:\Sping,2014\C# project\ProjectManagementTool\LogicTier\obj\Debug\LogicTier.pdb

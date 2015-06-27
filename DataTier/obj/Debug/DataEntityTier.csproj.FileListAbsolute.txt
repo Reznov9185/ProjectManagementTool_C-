@@ -1,0 +1,10 @@
+D:\C# project\ProjectManagementTool\DataTier\bin\Debug\DataTier.dll
+D:\C# project\ProjectManagementTool\DataTier\bin\Debug\DataTier.pdb
+D:\C# project\ProjectManagementTool\DataTier\obj\Debug\DataEntityTier.csprojResolveAssemblyReference.cache
+D:\C# project\ProjectManagementTool\DataTier\obj\Debug\DataTier.dll
+D:\C# project\ProjectManagementTool\DataTier\obj\Debug\DataTier.pdb
+F:\C#\tawhid\ProjectManagementTool\DataTier\bin\Debug\DataTier.dll
+F:\C#\tawhid\ProjectManagementTool\DataTier\bin\Debug\DataTier.pdb
+F:\C#\tawhid\ProjectManagementTool\DataTier\obj\Debug\DataEntityTier.csprojResolveAssemblyReference.cache
+F:\C#\tawhid\ProjectManagementTool\DataTier\obj\Debug\DataTier.dll
+F:\C#\tawhid\ProjectManagementTool\DataTier\obj\Debug\DataTier.pdb
